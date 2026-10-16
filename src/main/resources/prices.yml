@@ -1,0 +1,29 @@
+# Price PER ITEM. Use Bukkit material names (https://jd.papermc.io/paper/1.20/org/bukkit/Material.html)
+# Items not listed here cannot be sold (they are returned when the GUI closes).
+# Use /sell reload after editing.
+prices:
+  COBBLESTONE: 0.5
+  STONE: 1.0
+  COAL: 3.0
+  IRON_INGOT: 10.0
+  GOLD_INGOT: 25.0
+  COPPER_INGOT: 4.0
+  REDSTONE: 2.0
+  LAPIS_LAZULI: 3.0
+  DIAMOND: 100.0
+  EMERALD: 60.0
+  NETHERITE_INGOT: 1000.0
+  WHEAT: 2.0
+  CARROT: 1.5
+  POTATO: 1.5
+  BEETROOT: 1.5
+  MELON_SLICE: 1.0
+  PUMPKIN: 4.0
+  OAK_LOG: 2.0
+  SPRUCE_LOG: 2.0
+  BIRCH_LOG: 2.0
+  ROTTEN_FLESH: 0.5
+  BONE: 1.0
+  STRING: 1.5
+  GUNPOWDER: 4.0
+  ENDER_PEARL: 20.0

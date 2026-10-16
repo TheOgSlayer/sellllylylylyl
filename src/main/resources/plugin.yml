@@ -1,0 +1,15 @@
+name: SellGUI
+version: 1.0.0
+main: com.example.sellgui.SellGUI
+api-version: "1.20"
+depend: [Vault]
+commands:
+  sell:
+    description: Open the sell GUI
+    usage: /sell [reload]
+    permission: sellgui.use
+permissions:
+  sellgui.use:
+    default: true
+  sellgui.reload:
+    default: op
